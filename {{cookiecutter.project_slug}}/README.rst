@@ -19,6 +19,11 @@
      :target: https://pyup.io/repos/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/
      :alt: Updates
 
+.. image:: https://pyup.io/repos/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/python-3-shield.svg
+     :target: https://pyup.io/repos/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/TemplateTest/
+     :alt: Version
+
+
 
 {{ cookiecutter.project_short_description }}
 
