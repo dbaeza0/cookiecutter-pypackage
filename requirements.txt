@@ -3,6 +3,6 @@ pytest
 tox
 cryptography
 cookiecutter
-pytest-cookies
+pytest-cookies==0.5.1
 watchdog
 alabaster
