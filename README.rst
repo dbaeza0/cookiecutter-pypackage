@@ -5,6 +5,9 @@ Cookiecutter PyPackage
 .. image:: https://pyup.io/repos/github/dbaeza0/cookiecutter-pypackage/shield.svg
      :target: https://pyup.io/repos/github/dbaeza0/cookiecutter-pypackage/
      :alt: Updates
+.. image:: https://pyup.io/repos/github/dbaeza0/cookiecutter-pypackage/python-3-shield.svg
+     :target: https://pyup.io/repos/github/dbaeza0/cookiecutter-pypackage/
+     :alt: Python3
 
 Cookiecutter_ template for a Python package.
 
