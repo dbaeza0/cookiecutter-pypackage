@@ -1,6 +1,6 @@
 PyYAML
 pytest
-tox
+tox==3.14.5
 cryptography
 cookiecutter
 pytest-cookies
