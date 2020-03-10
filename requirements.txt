@@ -5,4 +5,4 @@ cryptography
 cookiecutter
 pytest-cookies
 watchdog
-alabaster
+alabaster==0.7.12
