@@ -1,7 +1,7 @@
 {
   "full_name": "Baeza Olvera Daniel Jesus",
-  "email": "dbaeza@ibm.com",
-  "github_username": "dbaeza24",
+  "email": "daniil_iisus@icloud.com",
+  "github_username": "dbaeza0",
   "project_name": "Python Starter Template",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
