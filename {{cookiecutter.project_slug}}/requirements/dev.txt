@@ -1,6 +1,6 @@
 -r test.txt
 pip
-punch.py
+punch.py==2.0.0
 wheel
 watchdog
 flake8
