@@ -2,7 +2,7 @@
 pip
 punch.py
 wheel
-watchdog
+watchdog==0.10.3
 flake8
 Sphinx
 {% if cookiecutter.use_pypi_deployment_with_travis == 'y' -%}
