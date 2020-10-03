@@ -3,7 +3,7 @@ pip
 punch.py
 wheel
 watchdog
-flake8
+flake8==3.8.4
 Sphinx
 {% if cookiecutter.use_pypi_deployment_with_travis == 'y' -%}
 cryptography
