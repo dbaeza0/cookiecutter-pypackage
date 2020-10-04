@@ -2,5 +2,5 @@
 tox
 coverage
 {% if cookiecutter.use_pytest == 'y' -%}
-pytest
+pytest==6.1.1
 pytest-cov{%- endif %}
