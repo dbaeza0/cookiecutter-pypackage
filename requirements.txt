@@ -1,7 +1,7 @@
 PyYAML
 pytest
 tox
-cryptography
+cryptography==3.3.1
 cookiecutter
 pytest-cookies
 watchdog
