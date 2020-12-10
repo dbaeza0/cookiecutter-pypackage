@@ -6,5 +6,5 @@ watchdog
 flake8
 Sphinx
 {% if cookiecutter.use_pypi_deployment_with_travis == 'y' -%}
-cryptography
+cryptography==3.3.1
 PyYAML{% endif %}
