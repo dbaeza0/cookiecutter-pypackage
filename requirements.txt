@@ -1,5 +1,5 @@
 PyYAML
-pytest
+pytest==6.2.1
 tox
 cryptography
 cookiecutter
