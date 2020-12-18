@@ -4,5 +4,5 @@ tox
 cryptography
 cookiecutter
 pytest-cookies
-watchdog
+watchdog==1.0.2
 alabaster
