@@ -1,5 +1,5 @@
 -r prod.txt
-tox
+tox==3.21.0
 coverage
 {% if cookiecutter.use_pytest == 'y' -%}
 pytest
