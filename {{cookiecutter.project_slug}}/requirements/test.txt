@@ -1,6 +1,6 @@
 -r prod.txt
 tox
-coverage
+coverage==5.4
 {% if cookiecutter.use_pytest == 'y' -%}
 pytest
 pytest-cov{%- endif %}
